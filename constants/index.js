@@ -60,3 +60,6 @@ export const vocalTraining = ["PURE HINDUSTANI CLASSICAL VOCAL CLASSES",
       "/two.jpg",
       "/three.jpg"
     ]
+
+
+    export const menuLinks = ["Courses", "Taalim Gallery", "Pricing", "Testimonials"]
